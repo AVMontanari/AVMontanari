@@ -51,7 +51,7 @@ I'm a Data Scientist and Criminal Lawyer with 10 years of experience. Passionate
 
 ## 📈 My Top Project
 
-### [PreCog Matrix](https://github.com/RafaelDataSci/precog-matrix)
+### [PreCog Matrix](https://github.com/RafaelDataSci/precog_matrix)
 PreCog Matrix is a predictive model to forecast crimes in the city of Toronto. It uses historical data and advanced machine learning techniques to provide accurate predictions and valuable insights for public safety.
 - **Technologies:** Python, JavaScript, Scikit-learn, Pandas, Matplotlib, Streamlit
 - **Features:** Crime type prediction, historical data visualization, interactive interface
